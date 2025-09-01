@@ -14,7 +14,7 @@
           <mxGeometry x="637" y="599" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H_8EhADn51h16BN9ZeOo-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 51));&quot;&gt;Hitos relevantes&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="975" y="1071" width="170" height="95" as="geometry" />
+          <mxGeometry x="1135" y="1204" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="H_8EhADn51h16BN9ZeOo-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 51));&quot;&gt;Consecuencias&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="1070" y="630" width="170" height="95" as="geometry" />
@@ -45,13 +45,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H_8EhADn51h16BN9ZeOo-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;startSize=20;endSize=14;fontStyle=0;dashed=1;dashPattern=8 8;startArrow=none;startFill=0;entryX=-0.019;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H_8EhADn51h16BN9ZeOo-4">
+        <mxCell id="H_8EhADn51h16BN9ZeOo-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;startSize=20;endSize=14;fontStyle=0;dashed=1;dashPattern=8 8;startArrow=none;startFill=0;entryX=0.272;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H_8EhADn51h16BN9ZeOo-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="916" y="974" as="sourcePoint" />
             <mxPoint x="948" y="1116" as="targetPoint" />
             <Array as="points">
               <mxPoint x="928" y="1012" />
-              <mxPoint x="862" y="1098" />
+              <mxPoint x="1052" y="1025" />
+              <mxPoint x="1067" y="1162" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -61,7 +62,6 @@
             <mxPoint x="1164" y="1084" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1206" y="944" />
-              <mxPoint x="1169" y="1035" />
               <mxPoint x="1251" y="998" />
             </Array>
           </mxGeometry>
@@ -106,6 +106,30 @@
         </mxCell>
         <mxCell id="H_8EhADn51h16BN9ZeOo-23" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;Fuerza pública / Estado&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="428" y="692" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H_8EhADn51h16BN9ZeOo-24" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;1982: Inicio de diálogos de paz con FARC (Betancur)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#97D077,#295A52);" vertex="1" parent="1">
+          <mxGeometry x="872" y="1185" width="169" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="H_8EhADn51h16BN9ZeOo-25" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;1984: Acuerdo de cese al fuego con FARC (La Uribe)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#97D077,#295A52);" vertex="1" parent="1">
+          <mxGeometry x="886" y="1318" width="169" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="H_8EhADn51h16BN9ZeOo-26" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;1991: Nueva Constitución — apertura política, desmovilización M-19&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#97D077,#295A52);" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1404" width="187" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="H_8EhADn51h16BN9ZeOo-27" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;1997-2006: Auge paramilitar (AUC)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#97D077,#295A52);" vertex="1" parent="1">
+          <mxGeometry x="1236" y="1379" width="169" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="H_8EhADn51h16BN9ZeOo-28" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;2002-2010: Política de Seguridad Democrática (Uribe)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#97D077,#295A52);" vertex="1" parent="1">
+          <mxGeometry x="1374" y="1298" width="169" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="H_8EhADn51h16BN9ZeOo-29" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;2012-2016: Proceso de paz con FARC (La Habana)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#97D077,#295A52);" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1181" width="169" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="H_8EhADn51h16BN9ZeOo-30" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;2016: Firma del Acuerdo de Paz con FARC &lt;br&gt;(Juan Manuel Santos)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#97D077,#295A52);" vertex="1" parent="1">
+          <mxGeometry x="1336" y="1061" width="175" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="H_8EhADn51h16BN9ZeOo-31" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255));&quot;&gt;2019-presente: Disidencias y ELN continúan con presencia armada&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#97D077,#295A52);" vertex="1" parent="1">
+          <mxGeometry x="1144" y="1014" width="175" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
